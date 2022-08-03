@@ -60,12 +60,12 @@ class HomePage extends StatelessWidget {
                     ),
                     items: [
                       Container(
-                        // margin: EdgeInsets.all(5.0),
+                        margin: EdgeInsets.all(5.0),
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(10.0),
                           image: DecorationImage(
                             image: new NetworkImage(
-                                'https://cdni.iconscout.com/illustration/premium/thumb/man-woman-outdoors-activity-2888579-2406929.png'),
+                                'https://media.cdn.my.id/uploads/Promo_wknd_strapi_674441918f_min_afd2d4a0c7.png'),
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -95,26 +95,26 @@ class HomePage extends StatelessWidget {
                         //   ],
                         // ),
                       ),
-                      Container(
-                        decoration: BoxDecoration(
-                          borderRadius: BorderRadius.circular(10.0),
-                          image: DecorationImage(
-                            image: new NetworkImage(
-                                'https://static.vecteezy.com/system/resources/thumbnails/000/687/256/small/black-friday-sale-promotion-poster-or-banner-template-vector.jpg'),
-                            fit: BoxFit.cover,
-                          ),
-                        ),
-                      ),
-                      Container(
-                        decoration: BoxDecoration(
-                          borderRadius: BorderRadius.circular(10.0),
-                          image: DecorationImage(
-                            image: new NetworkImage(
-                                'https://media.istockphoto.com/vectors/cartoon-people-walking-in-urban-park-illustration-vector-id1149263420?k=6&m=1149263420&s=612x612&w=0&h=9L0oChP0x6Cs5fsUmLK1hat8la1C6cJXcJrW3tuAO3s='),
-                            fit: BoxFit.cover,
-                          ),
-                        ),
-                      ),
+                      // Container(
+                      //   decoration: BoxDecoration(
+                      //     borderRadius: BorderRadius.circular(10.0),
+                      //     image: DecorationImage(
+                      //       image: new NetworkImage(
+                      //           'https://static.vecteezy.com/system/resources/thumbnails/000/687/256/small/black-friday-sale-promotion-poster-or-banner-template-vector.jpg'),
+                      //       fit: BoxFit.cover,
+                      //     ),
+                      //   ),
+                      // ),
+                      // Container(
+                      //   decoration: BoxDecoration(
+                      //     borderRadius: BorderRadius.circular(10.0),
+                      //     image: DecorationImage(
+                      //       image: new NetworkImage(
+                      //           'https://media.istockphoto.com/vectors/cartoon-people-walking-in-urban-park-illustration-vector-id1149263420?k=6&m=1149263420&s=612x612&w=0&h=9L0oChP0x6Cs5fsUmLK1hat8la1C6cJXcJrW3tuAO3s='),
+                      //       fit: BoxFit.cover,
+                      //     ),
+                      //   ),
+                      // ),
                     ],
                   ),
                 ),
